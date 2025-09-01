@@ -1,5 +1,6 @@
 import 'dart:convert';
-import 'package:partyu/models/venue_model.dart';
+
+import 'venue_model.dart';
 
 class Booking {
   final String id;
@@ -103,9 +104,10 @@ class Booking {
       category: map['category'],
       isFromGuide: map['isFromGuide'] == 1,
       createdAt: DateTime.parse(map['createdAt']),
-      responseDeadline: map['responseDeadline'] != null 
-          ? DateTime.parse(map['responseDeadline']) 
-          : null,
+      responseDeadline:
+          map['responseDeadline'] != null
+              ? DateTime.parse(map['responseDeadline'])
+              : null,
     );
   }
 

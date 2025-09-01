@@ -476,7 +476,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 Expanded(
                   child: _buildSocialButton(
                     'Google',
-                    LucideIcons.app,
+                    _buildGoogleIcon(),
                     () => _showErrorSnackBar('Login com Google em desenvolvimento!'),
                   ),
                 ),
