@@ -251,10 +251,10 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Suporte
 
-- **Email**: suporte@partyu.com
-- **Documentação**: [docs.partyu.com](https://docs.partyu.com)
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/partyu/issues)
-- **Discord**: [Comunidade PartyU](https://discord.gg/partyu)
+- **Email**: felippehouse@gmail.com
+- **Documentação**: [docs.partyu.com](https://docs.partyu.com) `em breve`
+- **Issues**: [GitHub Issues](https://github.com/seu-usuario/partyu/issues) `em breve`
+- **Discord**: [Comunidade PartyU](https://discord.gg/partyu) `em breve`
 
 ## 🙏 Agradecimentos
 
@@ -269,7 +269,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 **Feito com ❤️ pela equipe PartyU**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chrnotag)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-pinheiro-de-almeida-739383184/)
 
 </div>
